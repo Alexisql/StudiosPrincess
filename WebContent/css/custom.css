@@ -1,0 +1,15 @@
+/* your styles go here */
+
+.my-copy{
+    padding-top: 20px;
+    background-color: #333 ;
+}
+
+.my-icon{
+    color: green;
+    font-size: 20px;
+}
+.my-icon2{
+    color: red;
+    font-size: 20px;
+}
